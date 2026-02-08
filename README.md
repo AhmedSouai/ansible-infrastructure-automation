@@ -49,6 +49,12 @@ Avant d'exécuter ce projet, assurez-vous d'avoir les éléments suivants :
 
 Clonez ce projet et exécutez le playbook Ansible avec la commande suivante :
 
+## Capture d'écran
+<img width="3808" height="1967" alt="Capture d’écran 2026-02-08 155421" src="https://github.com/user-attachments/assets/b1210ae2-1fbd-4320-9afa-cd06e4a0532e" />
+
+
+
+
 ```bash
 git clone https://github.com/AhmedSouai/projet_perso
 cd ansible-infrastructure-automation
