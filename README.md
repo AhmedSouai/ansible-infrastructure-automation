@@ -1,3 +1,8 @@
+# Schéma 
+
+<img width="1144" height="511" alt="image" src="https://github.com/user-attachments/assets/484e34ef-4600-4106-844d-1dd4cdfe2e06" />
+
+
 # Automatisation de la Sécurité des Serveurs 🛡️ (Debian/Ubuntu)
 
 Ce projet utilise Ansible pour automatiser la sécurisation des serveurs Debian/Ubuntu, en intégrant des tâches liées à l'accès SSH et en réalisant une analyse de vulnérabilité avec OpenSCAP. L'objectif est d'améliorer la sécurité des systèmes en appliquant les meilleures pratiques et en effectuant des vérifications automatiques de sécurité. 🚀
